@@ -351,3 +351,5 @@ MigrationBackup/
 SMSSenderAPI/appsettings.Development.json
 SMSSenderAPI/appsettings.json
 SMSSenderAPI/Properties/launchSettings.json
+/SMSSender/Properties/launchSettings.json
+/SMSSender/appsettings.*.json
